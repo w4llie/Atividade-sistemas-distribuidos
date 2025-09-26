@@ -1,4 +1,5 @@
 # created by virtualenv automatically
+.venv
 .venv/Lib
 .venv/Scripts
 .venv/pyvenv.cfg
